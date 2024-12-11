@@ -5,6 +5,9 @@ This repository contains a comprehensive analysis of the wine dataset sourced fr
 
 # Objectives
 Data Exploration: Investigate the underlying structure of the wine dataset using various statistical and visualization techniques.
+
 Clustering: Apply clustering algorithms (such as K-Means) to categorize wines into distinct groups based on their attributes.
+
 Model Fitting: Utilize regression and classification models to predict wine quality and explore the relationships between various chemical properties.
+
 Performance Evaluation: Assess the performance of the clustering and fitting models through metrics such as silhouette score, model accuracy, and confusion matrix.
